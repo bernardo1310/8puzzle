@@ -13,8 +13,8 @@ class GeradorPuzzle:
 
     Nem toda permutação dos números 0-8 possui solução. A solucionabilidade
     é verificada pelo número de inversões na sequência:
-        inversões pares → estado tem solução
-        inversões ímpares → estado não tem solução
+        inversões pares -> estado tem solução
+        inversões ímpares -> estado não tem solução
     """
 
     @staticmethod
